@@ -1,0 +1,29 @@
+.addbook1 {
+    width: 100%;
+    height: max-content;
+    background-color: rgb(87, 158, 158);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.addbook2 {
+    border: 2px solid;
+    border-radius: 2%;
+    margin: 10%;
+    background-color: whitesmoke;
+    padding: 100px;
+    /* padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 90px; */
+
+}
+
+
+.addbook2-h2 {
+    margin-top: -50px;
+}
+.addbook2-1_input1{
+    border: white;
+}
+

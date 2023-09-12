@@ -1,0 +1,77 @@
+.Homepage{
+    /* border: 2px solid; */
+    
+    
+    margin: 12%;
+    margin-bottom: 0px;
+    margin-top: 1%;
+
+}
+.card{
+    width: 100px;
+}
+
+
+.caro1{
+    /* border: 2px solid; */
+    margin-bottom: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.caro1-inner{
+    width: 100%;
+    height: fit-content;
+}
+
+.caro2{
+    /* border: 2px solid; */
+    width: 100%;
+    height: 400px;
+}
+.caro2-innerclass{
+    width: 100%;
+    display: flex;
+
+
+}
+.img4,.img3,.img2{
+    /* border: 2px solid; */
+    height: 400px;
+    
+}
+
+.Homepage-h3{
+    color: rgb(77, 75, 75);
+}
+
+.homepage-grid1{
+    border: 2px solid grey;  
+    /* background-color: rgb(203, 202, 202); */
+    margin-top: 5px;
+    padding-left: 103px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+}
+
+.grid-item1-img{
+    width: 100px;
+}
+
+.Homepage-content2{
+    background-color: black;
+    color: white;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .carousel-control-next-icon{
+    color: #444;
+} */

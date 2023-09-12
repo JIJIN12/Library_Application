@@ -1,0 +1,13 @@
+.signin{
+    background-color: #91e9e9;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signin-form{
+    border: 2px solid;
+    background-color: whitesmoke;
+    margin: 7%;
+    padding: 100px;
+}

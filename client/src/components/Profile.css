@@ -1,0 +1,35 @@
+.h1-profile {
+    display: flex;
+    justify-content: center;
+}
+
+.Profile-container {
+    margin-left: 35px;
+    margin-right: 35PX;
+    /* background-color: rgb(72, 70, 70);
+    color: white; */
+}
+
+.profile-col-1 {
+    
+    height: 100%;
+}
+/* .profile-col-2{
+    border-radius: 20px;
+
+} */
+
+.profile-button {
+    /* border: 0px; */
+    /* border-color: white; */
+    background-color: white;
+    width: 100%;
+    margin: 0%;
+}
+
+.edit-profile{
+    border: 2px solid ;
+    padding: 20px;
+
+}
+

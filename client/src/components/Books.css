@@ -1,0 +1,33 @@
+.book-column1,.book-column2,.book-column3{
+    border: 2px solid;
+}
+.Book-container-row1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.book-h1{
+    display: flex;
+    justify-content: center;
+}
+.book-column2{
+    padding-bottom: 15px;
+}
+
+.column3-dropdown{
+    /* border: 2px solid; */
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+.bookbutton1{
+    margin-left: 25px;
+}
+
+.book-card{
+    margin-bottom: 15px;
+}
+
+.genre,.availability{
+    font-weight: normal;
+}

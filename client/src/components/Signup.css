@@ -1,0 +1,18 @@
+.signup{
+    background-color: bisque;
+    height: 100%;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-form{
+    border: 2px solid;
+    background-color: whitesmoke;
+    padding: 50px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.signup-form-submit{
+    padding: 7px;
+}

@@ -1,0 +1,14 @@
+.cell{
+    border: 2px solid;
+    padding: 20px;
+    /* width: fit-content; */
+    
+}
+.sub_bookview_container{
+    margin-left: 20%;
+    margin-left: 10%;
+    justify-content: center;
+}
+#cell1{
+    width: fit-content;
+}

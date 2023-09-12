@@ -1,0 +1,16 @@
+.editauthor-form{
+    /* background-color: #F6F4EB; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.editauthor1{
+    border: 2px solid;
+    padding: 25px;
+    /* background-color: aliceblue; */
+    
+}
+.editauthor2-1_input1{
+    padding: 3px;
+}
